@@ -1,4 +1,4 @@
-<span style="color: blue;"> HTML - disabled buttons     Web client challenge </span>
+<h1 style="color:blue;">HTML - disabled buttons Web client challenge</h1>
 
   platform: Root me
   
