@@ -29,7 +29,7 @@
        it takes username and password and check if it the same values that are in its list.
        if it is true , you can enter. else , it shows you a wrong message.
 
-### 4. the credentials [GOD:HIDDEN] were written in the code , so you can use it easily 
+### 4. the credentials [GOD:HIDDEN] were written in the code , so you can use it easily.
 
 ### 5. and finally, used that password for solving it.
 
