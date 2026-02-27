@@ -7,8 +7,9 @@
 ----
 ## Tools Used
 
-  Browser Developer Tools (Inspect Element)
-  [urlDecoder](https://www.urldecoder.org/)
+  1- Browser Developer Tools (Inspect Element)
+  
+  2- [urlDecoder](https://www.urldecoder.org/)
 
 ----
 
@@ -24,7 +25,7 @@
   <img width="828" height="171" alt="Screenshot 2026-02-27 201928" src="https://github.com/user-attachments/assets/f6ddc884-b2cf-4cce-baa0-6eb13f12e420" />
 
 
-  as we said in pravious challenge that the developer mustn't put any sensitive data in js since, users can access it easily.
+As mentioned in a previous challenge, developers should never place sensitive data in client-side JavaScript, since users can easily access it through the browser.
 ### 4. use any tool that decode the encoded url .
   I used this website [urlDecoder](https://www.urldecoder.org/)
   
