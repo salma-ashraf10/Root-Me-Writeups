@@ -8,6 +8,7 @@
 ## Tools Used
 
   Browser Developer Tools (Inspect Element)
+  [urlDecoder](https://www.urldecoder.org/)
 
 ----
 
@@ -25,7 +26,7 @@
 
   as we said in pravious challenge that the developer mustn't put any sensitive data in js since, users can access it easily.
 ### 4. use any tool that decode the encoded url .
-  I used this website [https://www.urldecoder.org/].
+  I used this website [urlDecoder](https://www.urldecoder.org/)
   
 <img width="950" height="587" alt="image" src="https://github.com/user-attachments/assets/daffaf4e-0bbc-45a6-85ba-5251e4be0476" />
 URL encoding is not encryption. It only converts special characters into a format that can be transmitted over the internet (ex: %20 = space).
